@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "meo",
+      "desc": "Description 1",
+      "image": "https://i.pinimg.com/564x/1d/aa/01/1daa0158527c53ea96f778e3bc470c4e.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "desc": "Description 2",
+      "image": "https://picsum.photos/150/150 "
+    },
+    {
+      "id": 3,
+      "name": "Product 3 4 6",
+      "desc": "Description 3",
+      "image": "https://picsum.photos/150/150 "
+    }
+  ]
+}
